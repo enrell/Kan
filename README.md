@@ -109,7 +109,15 @@ Every X second (that I don't know yet), **Kan** does this:
 - Matching determined via cosine or Hamming distance  
 - Sensitivity dynamically adapts to your entropy pattern
 
----
+<br>
+
+## 👤 Auth Without Trying
+
+**Use cases:**
+
+- Unlock encrypted data only when your natural behavior/context matches expected signature
+- Combine with PIN or biometrics for contextual MFA
+
 <br>
 
 ## 🛡️ Anti-Theft Mode
@@ -137,31 +145,19 @@ Every X second (that I don't know yet), **Kan** does this:
 - Ergo Proxy
 - Serial Experiments Lain
 
----
-<br>
-
-## 👤 Auth Without Trying
-
-**Use cases:**
-
-- Unlock encrypted data only when your natural behavior/context matches expected signature
-- Combine with PIN or biometrics for contextual MFA
-
----
-<br>
-
-## 🧾 License
-
-MIT License. Built for the data ghosts.
-
----
 <br>
 
 ## 📡 Contribute / Fork / Hack
 
 This project is yours to fork, break, encrypt, and evolve.
 
----
 <br>
+
+## 🧾 License
+
+MIT License. Built for the data ghosts.
+
+<br>
+
 
 - *"We are not stuff that abides, but patterns that perpetuate themselves" - Norbert Wiener*
